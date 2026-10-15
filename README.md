@@ -1,1 +1,2 @@
-# shiny-doodle
+# Падуренко
+![картинка](beach.jpg)
